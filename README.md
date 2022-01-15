@@ -3,14 +3,23 @@
 A social platform for pet lovers.
 
 --> Deprecated version
+## ✨ Features
 
-# Screenshots
+- [x] Like posts.
+- [x] Comment on posts.
+- [x] Search Users.
+- [x] Chat with users.
+- [x] Send emojis & GIFS in chats.
+- [x] Edit Profile.
+- [x] ListView/Postwise-View.
+- [ ] Dark Mode
+- [x] Dark Mode.
+- [x] Google Authentication.
 
-![alt text](https://github.com/LakshmiNarayanan2003/pettogram/blob/master/screenshots/home.png) 
-![alt text](https://github.com/LakshmiNarayanan2003/pettogram/blob/master/screenshots/home1.png)
-![alt text](https://github.com/LakshmiNarayanan2003/pettogram/blob/master/screenshots/story.png)
-![alt text](https://github.com/LakshmiNarayanan2003/pettogram/blob/master/screenshots/profile.png)
-![alt text](https://github.com/LakshmiNarayanan2003/pettogram/blob/master/screenshots/chat.png)
-![alt text](https://github.com/LakshmiNarayanan2003/pettogram/blob/master/screenshots/notifications.png)
+## ✨ Screenshots
+
+<img src="screenshots/home.png" width="400"> <img src="screenshots/home1.png" width="400"> 
+<img src="screenshots/story.png" width="400"> <img src="screenshots/profile.png" width="400"> 
+<img src="screenshots/chat.png" width="400"> <img src="screenshots/notifications.png" width="400"> 
 
 Have fun!
